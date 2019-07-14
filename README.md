@@ -6,3 +6,7 @@ I write all the tutorials based on my own experience, so I don't know how long i
 No coding involved, just so you know :) I can't code at all :)
 You guys can also try Lizzie, Interface of LeelaZero by Annie Wagner ~ it's a really helpful tool~
 For other information see the document "Introduction for the repository" :)
+
+Feel free to contact me for any Go-related discussions, 
+or to send your SGF format game records to jerrywindycat@163.com to ask for my review ~
+Completely free and I will try to finish in time ~
